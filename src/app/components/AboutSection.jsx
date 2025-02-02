@@ -80,7 +80,12 @@ const AboutSection = () => {
             About Me
           </h2>
           <p className="text-base lg:text-lg">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          At NYU Gallatin, I’m concentrating in Computer Science and its applications in data, energy, and art. My coursework spans 
+          computer science, mathematics, science and technology studies, and literature. I am 
+          especially passionate about the intersection of art and technology, with a particular focus on how artificial intelligence and 
+          mathematical concepts are reshaping the art world.
+          <br /> <br />
+          Outside academics, I enjoy skateboarding, filming and editing videos, and watching movies. I’m a big fan of live music, and love going to shows in NYC and my hometown, Austin.
 
 
           </p>
