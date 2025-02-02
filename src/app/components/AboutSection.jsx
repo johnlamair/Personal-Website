@@ -16,7 +16,7 @@ const TAB_DATA = [
         <li>Next</li>
         <li>React</li>
         <li>Git</li>
-        <li>Microsoft Suite</li>
+        <li>JavaScript</li>
         <li>Google Suite</li>
         <li>Adobe Suite</li>
       </ul>
@@ -81,9 +81,7 @@ const AboutSection = () => {
           </h2>
           <p className="text-base lg:text-lg">
           At NYU Gallatin, I’m concentrating in Computer Science and its applications in data, energy, and art. My coursework spans 
-          computer science, mathematics, science and technology studies, and literature. I am 
-          especially passionate about the intersection of art and technology, with a particular focus on how artificial intelligence and 
-          mathematical concepts are reshaping the art world.
+          computer science, mathematics, science and technology studies, and literature. I’m especially interested in how AI and math are changing the way art is created and experienced.
           <br /> <br />
           Outside academics, I enjoy skateboarding, filming and editing videos, and watching movies. I’m a big fan of live music, and love going to shows in NYC and my hometown, Austin.
 
